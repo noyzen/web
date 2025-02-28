@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "d4c4e7bd014c752364f6828721a1a752"
+        "md5": "8c695488a23f313ff086306b5e927e6a"
     },
     {
         "path": "assets",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/noyzen/index.html",
         "type": "file",
-        "md5": "66deb4ab9fdceaefea87e32821a46af8"
+        "md5": "6ccb8d3fce536d3e5bc7973ae160f797"
     },
     {
         "path": "contact",
@@ -92,12 +92,12 @@
     {
         "path": "/contact/index.html",
         "type": "file",
-        "md5": "3d2dcd2f671d455b6eaeccd6c72d1b9e"
+        "md5": "a83ced8826a048702268e814bb7c5437"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "37711a0d8cf31278afc4dada839baee1"
+        "md5": "9325b7304fef7d0ced0da6c7d004115f"
     },
     {
         "path": "media",
@@ -157,7 +157,7 @@
     {
         "path": "/posts/index.html",
         "type": "file",
-        "md5": "b33fc9b6f13e0a18809047977bf8d250"
+        "md5": "46014b99ab2b86640c167007c4b9b474"
     },
     {
         "path": "prices",
@@ -167,7 +167,7 @@
     {
         "path": "/prices/index.html",
         "type": "file",
-        "md5": "ca5f849b4f8ca197ca46b85f3ddd0733"
+        "md5": "79847cfd8c8eaefa32ccb9a019827989"
     },
     {
         "path": "robots.txt",
@@ -192,6 +192,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "69a8b3515e99c764987fda6552292fdb"
+        "md5": "62a5ab7ffe2a7138ba7958237c9af4e0"
     }
 ]
